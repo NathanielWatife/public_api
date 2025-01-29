@@ -42,17 +42,7 @@ Run the Flask app:
 python app.py
 Test locally at http://localhost:5000.
 
-Deployment on Vercel
-```
-Install the Vercel CLI:
-```
 
-```
-npm install -g vercel
-```
-Deploy:
-
-vercel --prod
 ```
 Your API will be live at https://your-project-name.vercel.app.
 ```
@@ -72,8 +62,6 @@ Technologies Used
 Python 3
 
 Flask (API framework)
-
-Vercel (Serverless deployment)
 
 Flask-CORS (CORS handling)
 
